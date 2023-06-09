@@ -1,0 +1,104 @@
+# depslib dependency file v1.0
+1686259913 source:c:\users\user\desktop\dados\juegodados\main.cpp
+	<string>
+	"rlutil.h"
+	"funcion.h"
+	"combinaciones.h"
+
+1686254809 c:\users\user\desktop\dados\juegodados\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1686259874 c:\users\user\desktop\dados\juegodados\funcion.h
+	<iostream>
+	<string>
+	"rlutil.h"
+	<cstdlib>
+	<ctime>
+	<windows.h>
+
+1686260044 c:\users\user\desktop\dados\juegodados\combinaciones.h
+	<iostream>
+	"funcion.h"
+
+1686263219 source:c:\users\joaquín\downloads\juegodados-main\dados\juegodados\main.cpp
+	<string>
+	"rlutil.h"
+	"funcion.h"
+	"combinaciones.h"
+
+1686260129 c:\users\joaquín\downloads\juegodados-main\dados\juegodados\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1686260129 c:\users\joaquín\downloads\juegodados-main\dados\juegodados\funcion.h
+	<iostream>
+	<string>
+	"rlutil.h"
+	<cstdlib>
+	<ctime>
+	<windows.h>
+
+1686263293 c:\users\joaquín\downloads\juegodados-main\dados\juegodados\combinaciones.h
+	<iostream>
+	"funcion.h"
+
+1686321944 source:c:\users\alumno\desktop\juegodados-main\juegodados-main\dados\juegodados\main.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+	"funcion.h"
+	"combinaciones.h"
+	"contnum.h"
+	"escalera.h"
+
+1686249748 c:\users\alumno\desktop\juegodados-main\juegodados-main\dados\juegodados\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1686319445 c:\users\alumno\desktop\juegodados-main\juegodados-main\dados\juegodados\funcion.h
+	<iostream>
+	<string>
+	"rlutil.h"
+	<cstdlib>
+	<ctime>
+	<windows.h>
+
+1686322192 c:\users\alumno\desktop\juegodados-main\juegodados-main\dados\juegodados\combinaciones.h
+
+1686322627 c:\users\alumno\desktop\juegodados-main\juegodados-main\dados\juegodados\contnum.h
+	<iostream>
+	"funcion.h"
+
+1686322689 c:\users\alumno\desktop\juegodados-main\juegodados-main\dados\juegodados\escalera.h
+
