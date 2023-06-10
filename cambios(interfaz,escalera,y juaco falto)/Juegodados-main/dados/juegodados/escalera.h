@@ -1,9 +1,10 @@
 #ifndef ESCALERA_H_INCLUDED
 #define ESCALERA_H_INCLUDED
 
-void fescalera(int []);
-void fescalera(int vec[]){
-int num=vec[1];
+void fescalera(int [],bool &escalera);
+void fescalera(int vec[],bool &escalera){
+
+int num=vec[0];
 int band=0;
 for(int i=1;i<5;i++){
     if(num<vec[i]){
@@ -13,7 +14,10 @@ for(int i=1;i<5;i++){
     }
 }
 if(band==0){
-   cout<< "escaleraaaaaaa";
+   cout<< "escalera,ganaste la partida"<<endl;
+
+   escalera=true;
+
 }
 }
 

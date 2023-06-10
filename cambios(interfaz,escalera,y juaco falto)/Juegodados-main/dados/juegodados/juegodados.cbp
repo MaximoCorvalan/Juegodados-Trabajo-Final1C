@@ -32,13 +32,16 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="cargardados.h" />
 		<Unit filename="combinaciones.h" />
 		<Unit filename="contnum.h" />
+		<Unit filename="dadosiguales.h" />
 		<Unit filename="escalera.h">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Unit filename="funcion.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="ningunacombinacion.h" />
 		<Unit filename="rlutil.h" />
 		<Extensions />
 	</Project>

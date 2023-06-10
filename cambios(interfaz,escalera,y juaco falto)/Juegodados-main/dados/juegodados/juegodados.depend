@@ -102,3 +102,51 @@
 
 1686322689 c:\users\alumno\desktop\juegodados-main\juegodados-main\dados\juegodados\escalera.h
 
+1686413130 source:c:\users\user\desktop\cambios(interfaz,escalera,y juaco falto)\juegodados-main\dados\juegodados\main.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+	"funcion.h"
+	"combinaciones.h"
+	"contnum.h"
+	"escalera.h"
+	"cargardados.h"
+	"dadosiguales.h"
+	"ningunacombinacion.h"
+
+1686249748 c:\users\user\desktop\cambios(interfaz,escalera,y juaco falto)\juegodados-main\dados\juegodados\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1686319446 c:\users\user\desktop\cambios(interfaz,escalera,y juaco falto)\juegodados-main\dados\juegodados\funcion.h
+	<iostream>
+	<string>
+	"rlutil.h"
+	<cstdlib>
+	<ctime>
+	<windows.h>
+
+1686411902 c:\users\user\desktop\cambios(interfaz,escalera,y juaco falto)\juegodados-main\dados\juegodados\combinaciones.h
+
+1686322628 c:\users\user\desktop\cambios(interfaz,escalera,y juaco falto)\juegodados-main\dados\juegodados\contnum.h
+	<iostream>
+	"funcion.h"
+
+1686413140 c:\users\user\desktop\cambios(interfaz,escalera,y juaco falto)\juegodados-main\dados\juegodados\escalera.h
+
+1686367030 c:\users\user\desktop\cambios(interfaz,escalera,y juaco falto)\juegodados-main\dados\juegodados\cargardados.h
+
+1686410991 c:\users\user\desktop\cambios(interfaz,escalera,y juaco falto)\juegodados-main\dados\juegodados\dadosiguales.h
+
+1686413273 c:\users\user\desktop\cambios(interfaz,escalera,y juaco falto)\juegodados-main\dados\juegodados\ningunacombinacion.h
+
